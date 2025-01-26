@@ -285,14 +285,6 @@ body {
   width: 44px;
 }
 
-.features-list-title-link:hover {
-  opacity: 0.8;
-}
-
-.features-list-title-link:active {
-  opacity: 0.6;
-}
-
 .features-link-item {
   width: 8px;
   border: 4px solid #ddd;
